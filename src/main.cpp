@@ -6,8 +6,8 @@
 const char* ssid = "Wokwi-GUEST";
 const char* password = "";
 const char* mqtt_server = "demo.thingsboard.io";
-const char* ID = "55b1f8b0-f4f0-11ef-9dbc-834dadad7dd9";
-const char* token = "dgz92dd8oj2koib4djp1";
+const char* ID = "";
+const char* token = "";
 const int port = 1883;
 
 #define R 5
