@@ -5,7 +5,7 @@ const char* ssid = "Wokwi-GUEST";
 const char* password = "";
 
 const char* mqtt_server = "demo.thingsboard.io";
-const char* token = "dgz92dd8oj2koib4djp1"; // ใส่ Token ที่คัดลอกมา
+const char* token = ""; // ใส่ Token ที่คัดลอกมา
 const char* client_id = "ESP32_RGB";
 
 WiFiClient espClient;
